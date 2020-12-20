@@ -1,0 +1,11 @@
+<map id="src/publisher.hpp" name="src/publisher.hpp">
+<area shape="rect" id="node2" href="$controller_8hpp.html" title="src/controller.hpp" alt="" coords="111,80,245,107"/>
+<area shape="rect" id="node6" href="$multiple__worker_8hpp.html" title="src/multiple_worker.hpp" alt="" coords="457,80,635,107"/>
+<area shape="rect" id="node8" href="$single__worker_8hpp.html" title="src/single_worker.hpp" alt="" coords="270,80,433,107"/>
+<area shape="rect" id="node10" href="$publisher_8cpp.html" title="src/publisher.cpp" alt="" coords="659,80,790,107"/>
+<area shape="rect" id="node3" href="$async_8cpp.html" title="src/async.cpp" alt="" coords="5,155,116,181"/>
+<area shape="rect" id="node4" href="$controller_8cpp.html" title="src/controller.cpp" alt="" coords="141,155,274,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="299,155,404,181"/>
+<area shape="rect" id="node7" href="$multiple__worker_8cpp.html" title="src/multiple_worker.cpp" alt="" coords="616,155,793,181"/>
+<area shape="rect" id="node9" href="$single__worker_8cpp.html" title="src/single_worker.cpp" alt="" coords="429,155,591,181"/>
+</map>
