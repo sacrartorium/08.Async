@@ -2,7 +2,7 @@ language: cpp
 dist: bionic
 env:
   global:
-    - NAMEP=async-$TRAVIS_BUILD_NUMBER-Linux.deb
+    - NAMEP=async_bulk-$TRAVIS_BUILD_NUMBER-Linux.deb
 before_script:
 - echo "deb http://archive.ubuntu.com/ubuntu bionic main universe" | sudo tee -a /etc/apt/sources.list
 - sudo apt-get update -qq
